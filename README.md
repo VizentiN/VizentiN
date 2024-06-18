@@ -9,9 +9,9 @@ Passionate about technology, I craft code that weaves simplicity with innovation
 
 ## Main Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=Chirper&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=bookstore&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=Chirper&theme=dark)](https://github.com/VizentiN/Chirper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=bookstore&theme=dark)](https://github.com/VizentiN/bookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=efood&theme=dark)](https://github.com/VizentiN/efood)
 
 
 ## Contact
