@@ -7,11 +7,11 @@ Passionate about technology, I craft code that weaves simplicity with innovation
 
 ![Vizentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizentiN&show_icons=true&theme=dracula)
 
-## Projects
+## Main Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=Chirper.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=bookstore.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=efood.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=Chirper&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=bookstore&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact
