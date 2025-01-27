@@ -12,6 +12,7 @@ Passionate about technology, I craft code that weaves simplicity with innovation
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=ramenGo&theme=dark)](https://github.com/VizentiN/ramenGo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=Chirper&theme=dark)](https://github.com/VizentiN/Chirper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=efood&theme=dark)](https://github.com/VizentiN/efood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VizentiN&repo=daily-python&theme=dark)](https://github.com/VizentiN/daily-python)
 
 
 ## Contact
